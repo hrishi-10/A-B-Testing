@@ -1,4 +1,4 @@
-# A/B Testing: ADA Group Project (2025)
+# A/B Testing: Advanced Data Analytics Project (2025)
 
 This repository contains the group assignment for the Analytics for Data-Driven Advantage (ADA) module at the University of Warwick (2024–2025). The project aims to evaluate the effectiveness of a website landing page redesign through rigorous A/B testing analysis using R.
 
